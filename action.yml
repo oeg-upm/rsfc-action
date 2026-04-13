@@ -12,7 +12,7 @@ inputs:
     description: "PR SHA"
     required: false
   rsfc_token:
-    description: "Token for private repos"
+    description: "Token to avoid rate limit issues"
     required: false
     default: ""
 
