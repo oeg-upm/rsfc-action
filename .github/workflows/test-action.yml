@@ -1,4 +1,4 @@
-name: Test RSFC Action
+name: Run RSFC analysis
 
 on:
   push:
